@@ -1,0 +1,10 @@
+{
+  "name": "http-echo",
+  "version": "1.0.0",
+  "description": "Simple webserver which echos incoming HTTP requests. ",
+  "keywords": ["http", "echo", "debug"],
+  "main": "index.js",
+  "author": "Wichert Akkerman <wichert@wiggy.net>",
+  "license": "ISC",
+  "repository": "wichert/http-echo"
+}
